@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    text-align: center;
+    background-image: url(../images/donation7.jpg);
+    width: 1216px;;
+    height: 669px;
+    left: 0px;
+    top: 0px;
+    background-repeat: no-repeat;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.bannertitle{
+    position: absolute;
+    width: 826px;
+    height: 158px;
+    left: 307px;
+    top: 174px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    text-align: center;
+    display: flex;
+    }
+
+    .button-primary{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 16px 12px;
+        gap: 8px;
+
+        position: absolute;
+        width: 160px;
+        height: 56px;
+        left: 640px;
+        top: 438px;
+
+        background: #FF5959;
+        border-radius: 5px;
+        color: #FFFFFF;
+        margin: 0%;
+        }
+
+        .banner{
+            margin: 0 200px;
+            display: flex;
+            align-items: center;
+        }
+
+        .banner-discription{
+            position: absolute;
+            width: 691px;
+            height: 56px;
+            left: 375px;
+            top: 352px;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 28px;
+            /* or 156% */
+
+            text-align: center;
+
+            color: #FFFFFF;
+        }
+        .donate{
+           
+           
+            
+        }
+        .sectiontitle{
+            position: absolute;
+            width: 304px;
+            height: 54px;
+            left: 568px;
+            top: 799px;
+            font-weight: 700;
+            font-size: 45px;
+            line-height: 54px;
+            text-align: center;
+        }
+        .sectiondiscription{
+            position: absolute;
+            width: 691px;
+            height: 56px;
+            left: 375px;
+            top: 873px;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 28px;
+            /* or 156% */
+
+            text-align: center;
+            color: #707070;
+            /* gap: 30px; */
+        }
+
+        .amount{
+            position: absolute;
+                width: 135px;
+                height: 123px;
+                left: 338px;
+                top: 979px;
+                background: #FAFAFA;
+                border-radius: 5px;
+        }
+        .about-info-container{
+            display: flex;
+            justify-content: space-around;
+        }
+        .amount-info{
+            position: absolute;
+            width: 86px;
+            height: 36px;
+            font-weight: 700;
+            font-size: 30px;
+            line-height: 36px;
+            text-align: center;
+            display: flex;
+            color: #707070;
+        }
+        /* .amount-type{
+            position: absolute;
+            width: 192px;
+            height: 28px;
+            left: 625px;
+            top: 1162px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 28px;
+            /* identical to box height, or 156% */
+
+     
