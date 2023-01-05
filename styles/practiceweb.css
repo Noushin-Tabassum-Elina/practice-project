@@ -112,7 +112,7 @@ header{
                 background: #FAFAFA;
                 border-radius: 5px;
         }
-        .about-info-container{
+        .container{
             display: flex;
             justify-content: space-around;
         }
@@ -127,17 +127,7 @@ header{
             display: flex;
             color: #707070;
         }
-        /* .amount-type{
-            position: absolute;
-            width: 192px;
-            height: 28px;
-            left: 625px;
-            top: 1162px;
-            font-family: 'Poppins';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 18px;
-            line-height: 28px;
-            /* identical to box height, or 156% */
+       
+
 
      
